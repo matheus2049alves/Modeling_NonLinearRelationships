@@ -1,4 +1,5 @@
-Reconhecimentos e Direitos Autorais
+# Reconhecimentos e Direitos Autorais
+
 @autor: Emanuel Lopes Silva e Matheus Costa Alves
 
 @contato: emanuelsilva.slz@gmail.com e mathii10costa@gmail.com
