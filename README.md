@@ -1,13 +1,13 @@
 Reconhecimentos e Direitos Autorais
 @autor: Emanuel Lopes Silva e Matheus Costa Alves
 
-@contato: emanuelsilva.slz@gmail.com
+@contato: emanuelsilva.slz@gmail.com e mathii10costa@gmail.com
 
 @data última versão: 10/06/2025
 
 @versão: 1.0
 
-@outros repositórios: https://github.com/EmanuelSilva69
+@outros repositórios: https://github.com/EmanuelSilva69 e https://github.com/matheus2049alves
 
 @Agradecimentos: Universidade Federal do Maranhão (UFMA), Professor Doutor
 Thales Levi Azevedo Valente, e colegas de curso.
