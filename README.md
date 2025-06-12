@@ -1,5 +1,5 @@
 Reconhecimentos e Direitos Autorais
-@autor: Emanuel Silva e Matheus Alves
+@autor: Emanuel Lopes Silva e Matheus Costa Alves
 
 @contato: emanuelsilva.slz@gmail.com
 
